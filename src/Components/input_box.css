@@ -1,0 +1,26 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:40vh;
+    
+}
+
+.button-box{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.input-box{
+    width:60%;
+
+}
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    height: 100%;
+}
